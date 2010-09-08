@@ -8,6 +8,6 @@ group :development do
   gem 'rspec-rails', '2.0.0.beta.18'
 end
 
-group :test do
+group :test, :development do
   gem 'rspec', '2.0.0.beta.18'
 end
