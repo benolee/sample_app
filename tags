@@ -1,0 +1,144 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AddEmailUniquenessIndex	/home/ben/railapps/sample_app/db/migrate/20100910155604_add_email_uniqueness_index.rb	/^class AddEmailUniquenessIndex < ActiveRecord::Migration$/;"	c
+AddPasswordToUsers	/home/ben/railapps/sample_app/db/migrate/20100910171136_add_password_to_users.rb	/^class AddPasswordToUsers < ActiveRecord::Migration$/;"	c
+AddSaltToUsers	/home/ben/railapps/sample_app/db/migrate/20100910193325_add_salt_to_users.rb	/^class AddSaltToUsers < ActiveRecord::Migration$/;"	c
+Ajax.InPlaceCollectionEditor.DefaultOptions.loadingCollectionText	/home/ben/railapps/sample_app/public/javascripts/controls.js	/^  loadingCollectionText: 'Loading options...'$/;"	p
+Ajax.InPlaceEditor	/home/ben/railapps/sample_app/public/javascripts/controls.js	/^Ajax.InPlaceEditor.prototype.initialize.dealWithDeprecatedOptions = function(options) {$/;"	c
+Ajax.InPlaceEditor.initialize	/home/ben/railapps/sample_app/public/javascripts/controls.js	/^Ajax.InPlaceEditor.prototype.initialize.dealWithDeprecatedOptions = function(options) {$/;"	m
+Application	/home/ben/railapps/sample_app/config/application.rb	/^  class Application < Rails::Application$/;"	c	class:SampleApp
+ApplicationController	/home/ben/railapps/sample_app/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
+ApplicationHelper	/home/ben/railapps/sample_app/app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m
+Autocompleter.Base	/home/ben/railapps/sample_app/public/javascripts/controls.js	/^Autocompleter.Base.prototype.getTokenBounds.getFirstDifferencePos = function(newS, oldS) {$/;"	c
+Autocompleter.Base.getTokenBounds	/home/ben/railapps/sample_app/public/javascripts/controls.js	/^Autocompleter.Base.prototype.getTokenBounds.getFirstDifferencePos = function(newS, oldS) {$/;"	m
+CreateUsers	/home/ben/railapps/sample_app/db/migrate/20100909210835_create_users.rb	/^class CreateUsers < ActiveRecord::Migration$/;"	c
+Draggable	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^var Draggable = Class.create({$/;"	v
+Draggables.drags	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^  drags: [],$/;"	p
+Droppables.drops	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^  drops: [],$/;"	p
+Effect.Appear	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.Appear = function(element) {$/;"	f
+Effect.BlindDown	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.BlindDown = function(element) {$/;"	f
+Effect.BlindUp	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.BlindUp = function(element) {$/;"	f
+Effect.DropOut	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.DropOut = function(element) {$/;"	f
+Effect.DropOut.oldStyle.top	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^    top: element.getStyle('top'),$/;"	p
+Effect.Fade	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.Fade = function(element) {$/;"	f
+Effect.Fold	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.Fold = function(element) {$/;"	f
+Effect.Fold.oldStyle.top	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^    top: element.style.top,$/;"	p
+Effect.Grow	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.Grow = function(element) {$/;"	f
+Effect.Grow.oldStyle.top	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^    top: element.style.top,$/;"	p
+Effect.Methods.highlight	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^  highlight: function(element, options) {$/;"	m
+Effect.Methods.morph	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^  morph: function(element, style) {$/;"	m
+Effect.Methods.visualEffect	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^  visualEffect: function(element, effect, options) {$/;"	m
+Effect.MoveBy	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.MoveBy = function(element, toTop, toLeft) {$/;"	f
+Effect.Puff	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.Puff = function(element) {$/;"	f
+Effect.Puff.oldStyle.opacity	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^    opacity: element.getInlineOpacity(),$/;"	p
+Effect.Pulsate	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.Pulsate = function(element) {$/;"	f
+Effect.Queues.instances	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^  instances: $H(),$/;"	p
+Effect.ScrollTo	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.ScrollTo = function(element) {$/;"	f
+Effect.Shake	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.Shake = function(element) {$/;"	f
+Effect.Shake.oldStyle.top	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^    top: element.getStyle('top'),$/;"	p
+Effect.Shrink	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.Shrink = function(element) {$/;"	f
+Effect.Shrink.oldStyle.top	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^    top: element.style.top,$/;"	p
+Effect.SlideDown	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.SlideDown = function(element) {$/;"	f
+Effect.SlideUp	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.SlideUp = function(element) {$/;"	f
+Effect.Squish	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.Squish = function(element) {$/;"	f
+Effect.SwitchOff	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Effect.SwitchOff = function(element) {$/;"	f
+Element.collectTextNodes	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Element.collectTextNodes = function(element) {$/;"	f
+Element.collectTextNodesIgnoreClass	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Element.collectTextNodesIgnoreClass = function(element, className) {$/;"	f
+Element.findChildren	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^Element.findChildren = function(element, only, recursive, tagName) {$/;"	f
+Element.forceRerendering	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Element.forceRerendering = function(element) {$/;"	f
+Element.getInlineOpacity	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Element.getInlineOpacity = function(element){$/;"	f
+Element.getStyles	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^  Element.getStyles = function(element) {$/;"	f
+Element.isParent	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^Element.isParent = function(child, element) {$/;"	f
+Element.offsetSize	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^Element.offsetSize = function (element, type) {$/;"	f
+Element.setContentZoom	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^Element.setContentZoom = function(element, percent) {$/;"	f
+Field.scrollFreeActivate	/home/ben/railapps/sample_app/public/javascripts/controls.js	/^Field.scrollFreeActivate = function(field) {$/;"	f
+PagesController	/home/ben/railapps/sample_app/app/controllers/pages_controller.rb	/^class PagesController < ApplicationController$/;"	c
+PagesHelper	/home/ben/railapps/sample_app/app/helpers/pages_helper.rb	/^module PagesHelper$/;"	m
+Prototype.Browser	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  Browser: (function(){$/;"	p
+Prototype.Version	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  Version: '1.7_rc2',$/;"	p
+SampleApp	/home/ben/railapps/sample_app/config/application.rb	/^module SampleApp$/;"	m
+SessionsController	/home/ben/railapps/sample_app/app/controllers/sessions_controller.rb	/^class SessionsController < ApplicationController$/;"	c
+SessionsHelper	/home/ben/railapps/sample_app/app/helpers/sessions_helper.rb	/^module SessionsHelper$/;"	m
+Sortable.SERIALIZE_RULE	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^  SERIALIZE_RULE: \/^[^_\\-](?:[A-Za-z0-9\\-\\_]*)[_](.*)$\/,$/;"	p
+SortableObserver	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^var SortableObserver = Class.create({$/;"	v
+Str	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function Str(key, holder, stack) {$/;"	f
+String	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^String.prototype.parseColor = function() {$/;"	c
+String.parseColor	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^String.prototype.parseColor = function() {$/;"	m
+String.parseStyle	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^String.prototype.parseStyle = function(){$/;"	m
+Try.these	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  these: function() {$/;"	m
+Type	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function Type(o) {$/;"	f
+User	/home/ben/railapps/sample_app/app/models/user.rb	/^class User < ActiveRecord::Base$/;"	c
+UsersController	/home/ben/railapps/sample_app/app/controllers/users_controller.rb	/^class UsersController < ApplicationController$/;"	c
+UsersHelper	/home/ben/railapps/sample_app/app/helpers/users_helper.rb	/^module UsersHelper$/;"	m
+about	/home/ben/railapps/sample_app/app/controllers/pages_controller.rb	/^  def about$/;"	f	class:PagesController
+authenticate	/home/ben/railapps/sample_app/app/models/user.rb	/^  def self.authenticate(email, submitted_password)$/;"	F	class:User
+child.id	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^        id: encodeURIComponent(match ? match[1] : null),$/;"	p
+clone	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function clone(object) {$/;"	f
+contact	/home/ben/railapps/sample_app/app/controllers/pages_controller.rb	/^  def contact$/;"	f	class:PagesController
+create	/home/ben/railapps/sample_app/app/controllers/sessions_controller.rb	/^  def create$/;"	f	class:SessionsController
+create	/home/ben/railapps/sample_app/app/controllers/users_controller.rb	/^  def create$/;"	f	class:UsersController
+current_user	/home/ben/railapps/sample_app/app/helpers/sessions_helper.rb	/^  def current_user$/;"	f	class:SessionsHelper
+destroy	/home/ben/railapps/sample_app/app/controllers/sessions_controller.rb	/^  def destroy$/;"	f	class:SessionsController
+down	/home/ben/railapps/sample_app/db/migrate/20100909210835_create_users.rb	/^  def self.down$/;"	F	class:CreateUsers
+down	/home/ben/railapps/sample_app/db/migrate/20100910155604_add_email_uniqueness_index.rb	/^  def self.down$/;"	F	class:AddEmailUniquenessIndex
+down	/home/ben/railapps/sample_app/db/migrate/20100910171136_add_password_to_users.rb	/^  def self.down$/;"	F	class:AddPasswordToUsers
+down	/home/ben/railapps/sample_app/db/migrate/20100910193325_add_salt_to_users.rb	/^  def self.down$/;"	F	class:AddSaltToUsers
+drop	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^    var drop, affected = [];$/;"	v
+droponOptions	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^    var droponOptions = Sortable.options(dropon);$/;"	v
+encrypt	/home/ben/railapps/sample_app/app/models/user.rb	/^    def encrypt(string)$/;"	f	class:User
+encrypt_password	/home/ben/railapps/sample_app/app/models/user.rb	/^    def encrypt_password$/;"	f	class:User
+extend	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function extend(destination, source) {$/;"	f
+function.handleMethod	/home/ben/railapps/sample_app/public/javascripts/rails.js	/^  function handleMethod(element) {$/;"	f
+function.handleRemote	/home/ben/railapps/sample_app/public/javascripts/rails.js	/^  function handleRemote(element) {$/;"	f
+gravatar_for	/home/ben/railapps/sample_app/app/helpers/users_helper.rb	/^  def gravatar_for(user, options = { :size => 50 })$/;"	f	class:UsersHelper
+has_password?	/home/ben/railapps/sample_app/app/models/user.rb	/^  def has_password?(submitted_password)$/;"	f	class:User
+help	/home/ben/railapps/sample_app/app/controllers/pages_controller.rb	/^  def help$/;"	f	class:PagesController
+home	/home/ben/railapps/sample_app/app/controllers/pages_controller.rb	/^  def home$/;"	f	class:PagesController
+inspect	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function inspect(object) {$/;"	f
+isArray	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function isArray(object) {$/;"	f
+isElement	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function isElement(object) {$/;"	f
+isForm.isInput.Event.Handler	/home/ben/railapps/sample_app/public/javascripts/rails.js	/^    Event.Handler.prototype.initialize = Event.Handler.prototype.initialize.wrap($/;"	c
+isForm.isInput.isForm.isInput.Event.Handler.initialize	/home/ben/railapps/sample_app/public/javascripts/rails.js	/^    Event.Handler.prototype.initialize = Event.Handler.prototype.initialize.wrap($/;"	m
+isFunction	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function isFunction(object) {$/;"	f
+isHash	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function isHash(object) {$/;"	f
+isNumber	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function isNumber(object) {$/;"	f
+isString	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function isString(object) {$/;"	f
+isUndefined	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function isUndefined(object) {$/;"	f
+keys	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function keys(object) {$/;"	f
+logo	/home/ben/railapps/sample_app/app/helpers/application_helper.rb	/^  def logo$/;"	f	class:ApplicationHelper
+make_salt	/home/ben/railapps/sample_app/app/models/user.rb	/^    def make_salt$/;"	f	class:User
+masterDelay	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^    var masterDelay = options.delay;$/;"	v
+name	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^    var name = encodeURIComponent($/;"	v
+new	/home/ben/railapps/sample_app/app/controllers/sessions_controller.rb	/^  def new$/;"	f	class:SessionsController
+new	/home/ben/railapps/sample_app/app/controllers/users_controller.rb	/^  def new$/;"	f	class:UsersController
+offsets	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^    var offsets = dropon.cumulativeOffset();$/;"	v
+options_for_draggable.quiet	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^      quiet:       options.quiet,$/;"	p
+options_for_draggable.revert	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^      revert:      true,$/;"	p
+options_for_droppable.overlap	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^      overlap:     options.overlap,$/;"	p
+options_for_tree.onHover	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^      onHover:      Sortable.onEmptyHover,$/;"	p
+partial	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^        var partial = [];$/;"	v
+pointer	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^    var pointer = [Event.pointerX(event), Event.pointerY(event)];$/;"	v
+remember_token	/home/ben/railapps/sample_app/app/helpers/sessions_helper.rb	/^  def remember_token$/;"	f	class:SessionsHelper
+root.children	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^      children: [],$/;"	p
+root.id	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^      id: null,$/;"	p
+root.parent	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^      parent: null,$/;"	p
+s	/home/ben/railapps/sample_app/public/javascripts/dragdrop.js	/^    var s = Sortable.sortables[element.id];$/;"	v
+secure_hash	/home/ben/railapps/sample_app/app/models/user.rb	/^    def secure_hash(string)$/;"	f	class:User
+show	/home/ben/railapps/sample_app/app/controllers/users_controller.rb	/^  def show$/;"	f	class:UsersController
+sign_in	/home/ben/railapps/sample_app/app/helpers/sessions_helper.rb	/^  def sign_in(user)$/;"	f	class:SessionsHelper
+stringify	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function stringify(object) {$/;"	f
+title	/home/ben/railapps/sample_app/app/helpers/application_helper.rb	/^  def title$/;"	f	class:ApplicationHelper
+toHTML	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function toHTML(object) {$/;"	f
+toJSON	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function toJSON(value) {$/;"	f
+toQueryString	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function toQueryString(object) {$/;"	f
+up	/home/ben/railapps/sample_app/db/migrate/20100909210835_create_users.rb	/^  def self.up$/;"	F	class:CreateUsers
+up	/home/ben/railapps/sample_app/db/migrate/20100910155604_add_email_uniqueness_index.rb	/^  def self.up$/;"	F	class:AddEmailUniquenessIndex
+up	/home/ben/railapps/sample_app/db/migrate/20100910171136_add_password_to_users.rb	/^  def self.up$/;"	F	class:AddPasswordToUsers
+up	/home/ben/railapps/sample_app/db/migrate/20100910193325_add_salt_to_users.rb	/^  def self.up$/;"	F	class:AddSaltToUsers
+user_from_remember_token	/home/ben/railapps/sample_app/app/helpers/sessions_helper.rb	/^  def user_from_remember_token$/;"	f	class:SessionsHelper
+values	/home/ben/railapps/sample_app/public/javascripts/prototype.js	/^  function values(object) {$/;"	f
+var.Effect._elementDoesNotExistError	/home/ben/railapps/sample_app/public/javascripts/effects.js	/^  _elementDoesNotExistError: {$/;"	p
