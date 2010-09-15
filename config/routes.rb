@@ -1,6 +1,6 @@
 SampleApp::Application.routes.draw do
   resources :users
-  resources :sessions, :only => [:new, :create, :destroy]
+  resources :sessions, :only => [:new, :create, :destroy, :edit]
 
   # get "sessions/new"
   # get "users/new"
