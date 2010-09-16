@@ -142,4 +142,26 @@ describe User do
       @user.should be_admin
     end
   end
+
+  describe "micropost associations" do
+
+    before(:each) do
+      @user = User.create(@attr)
+    end
+
+    it "should have a micropost attribute" do
+      @user.should respond_to(:microposts)
+    end
+
+    it "should have the right microposts in the right order" do
+        @user.microposts.should == [@mp2, @mp1]
+    end
+
+    it "should destroy associated microposts" do
+      @user.destroy
+      [@mp1, @mp2].each do |micropost|
+        Micropost.find_by_id(micropost.id).should be_nil
+      end
+    end
+  end
 end
